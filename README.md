@@ -8,6 +8,7 @@
 | [0088-merge-sorted-array](https://github.com/kapil9562/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kapil9562/DSA-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kapil9562/DSA-Problems/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kapil9562/DSA-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/kapil9562/DSA-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kapil9562/DSA-Problems/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kapil9562/DSA-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
