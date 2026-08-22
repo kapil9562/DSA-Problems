@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/kapil9562/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kapil9562/DSA-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kapil9562/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kapil9562/DSA-Problems/tree/master/0169-majority-element) |
@@ -20,6 +21,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/kapil9562/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kapil9562/DSA-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kapil9562/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kapil9562/DSA-Problems/tree/master/0169-majority-element) |
@@ -68,6 +70,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/kapil9562/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kapil9562/DSA-Problems/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
