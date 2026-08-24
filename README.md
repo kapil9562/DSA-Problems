@@ -7,6 +7,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/kapil9562/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kapil9562/DSA-Problems/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/kapil9562/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kapil9562/DSA-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kapil9562/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kapil9562/DSA-Problems/tree/master/0169-majority-element) |
@@ -30,6 +31,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/kapil9562/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/kapil9562/DSA-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kapil9562/DSA-Problems/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kapil9562/DSA-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kapil9562/DSA-Problems/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/kapil9562/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
