@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kapil9562/DSA-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kapil9562/DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/kapil9562/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kapil9562/DSA-Problems/tree/master/0057-insert-interval) |
@@ -51,6 +52,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kapil9562/DSA-Problems/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/kapil9562/DSA-Problems/tree/master/0268-missing-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kapil9562/DSA-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
@@ -83,6 +85,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kapil9562/DSA-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kapil9562/DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kapil9562/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
