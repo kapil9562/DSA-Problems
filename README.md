@@ -26,6 +26,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/kapil9562/DSA-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kapil9562/DSA-Problems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/kapil9562/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/kapil9562/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
@@ -111,6 +112,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/kapil9562/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kapil9562/DSA-Problems/tree/master/0242-valid-anagram) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kapil9562/DSA-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
