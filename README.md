@@ -26,6 +26,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kapil9562/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/kapil9562/DSA-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kapil9562/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kapil9562/DSA-Problems/tree/master/0125-valid-palindrome) |
@@ -117,10 +118,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kapil9562/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/kapil9562/DSA-Problems/tree/master/0118-pascals-triangle) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kapil9562/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/kapil9562/DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/kapil9562/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/kapil9562/DSA-Problems/tree/master/0125-valid-palindrome) |
@@ -150,4 +153,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kapil9562/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kapil9562/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
