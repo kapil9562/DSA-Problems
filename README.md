@@ -52,6 +52,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kapil9562/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/kapil9562/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/kapil9562/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/kapil9562/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/kapil9562/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kapil9562/DSA-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/kapil9562/DSA-Problems/tree/master/0205-isomorphic-strings) |
@@ -131,6 +132,7 @@
 | [0005-longest-palindromic-substring](https://github.com/kapil9562/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/kapil9562/DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/kapil9562/DSA-Problems/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/kapil9562/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/kapil9562/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kapil9562/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kapil9562/DSA-Problems/tree/master/0205-isomorphic-strings) |
@@ -144,6 +146,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kapil9562/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/kapil9562/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/kapil9562/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kapil9562/DSA-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Prefix Sum
