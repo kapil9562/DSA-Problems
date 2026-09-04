@@ -23,6 +23,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/kapil9562/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kapil9562/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kapil9562/DSA-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3903-smallest-stable-index-i](https://github.com/kapil9562/DSA-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,6 +150,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/kapil9562/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [3903-smallest-stable-index-i](https://github.com/kapil9562/DSA-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Union-Find
 |  |
 | ------- |
