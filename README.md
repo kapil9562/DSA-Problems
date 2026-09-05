@@ -17,6 +17,7 @@
 | [0118-pascals-triangle](https://github.com/kapil9562/DSA-Problems/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/kapil9562/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kapil9562/DSA-Problems/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/kapil9562/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kapil9562/DSA-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kapil9562/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kapil9562/DSA-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -56,6 +57,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/kapil9562/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kapil9562/DSA-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/kapil9562/DSA-Problems/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/kapil9562/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kapil9562/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kapil9562/DSA-Problems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/kapil9562/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -147,6 +149,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kapil9562/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/kapil9562/DSA-Problems/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/kapil9562/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/kapil9562/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kapil9562/DSA-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Prefix Sum
