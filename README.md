@@ -39,6 +39,7 @@
 | [0287-find-the-duplicate-number](https://github.com/kapil9562/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kapil9562/DSA-Problems/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/kapil9562/DSA-Problems/tree/master/0443-string-compression) |
+| [0680-valid-palindrome-ii](https://github.com/kapil9562/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/kapil9562/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kapil9562/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/kapil9562/DSA-Problems/tree/master/0443-string-compression) |
+| [0680-valid-palindrome-ii](https://github.com/kapil9562/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kapil9562/DSA-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
@@ -180,4 +182,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kapil9562/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/kapil9562/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
