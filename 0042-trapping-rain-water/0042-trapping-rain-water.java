@@ -3,10 +3,10 @@ class Solution {
         int left = 0;
         int right = height.length - 1;
 
-        int maxLeft = 0; // 0, 1, 2 
-        int maxRight = 0; // 0 , 1, 2, 1, 
+        int maxLeft = 0;
+        int maxRight = 0;
 
-        int water = 0; // 0 , -1, -1, 0, 0, 1, 
+        int water = 0;
 
         while (left < right) {
             if(height[left] < height[right]) {
