@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kapil9562/DSA-Problems/tree/master/0014-longest-common-prefix) |
+| [0042-trapping-rain-water](https://github.com/kapil9562/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/kapil9562/DSA-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kapil9562/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kapil9562/DSA-Problems/tree/master/0054-spiral-matrix) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kapil9562/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/kapil9562/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kapil9562/DSA-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kapil9562/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kapil9562/DSA-Problems/tree/master/0125-valid-palindrome) |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kapil9562/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/kapil9562/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/kapil9562/DSA-Problems/tree/master/0118-pascals-triangle) |
 ## String
 |  |
@@ -186,4 +189,12 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/kapil9562/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kapil9562/DSA-Problems/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kapil9562/DSA-Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
