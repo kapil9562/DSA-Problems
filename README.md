@@ -26,6 +26,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/kapil9562/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kapil9562/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/kapil9562/DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kapil9562/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kapil9562/DSA-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3903-smallest-stable-index-i](https://github.com/kapil9562/DSA-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
@@ -74,6 +75,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/kapil9562/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kapil9562/DSA-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kapil9562/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kapil9562/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kapil9562/DSA-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
@@ -200,4 +202,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kapil9562/DSA-Problems/tree/master/0042-trapping-rain-water) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/kapil9562/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/kapil9562/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
