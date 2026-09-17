@@ -24,6 +24,7 @@
 | [0268-missing-number](https://github.com/kapil9562/DSA-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kapil9562/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kapil9562/DSA-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/kapil9562/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/kapil9562/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kapil9562/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/kapil9562/DSA-Problems/tree/master/0904-fruit-into-baskets) |
