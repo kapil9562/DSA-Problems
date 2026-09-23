@@ -33,6 +33,7 @@
 | [0904-fruit-into-baskets](https://github.com/kapil9562/DSA-Problems/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/kapil9562/DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kapil9562/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1901-find-a-peak-element-ii](https://github.com/kapil9562/DSA-Problems/tree/master/1901-find-a-peak-element-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kapil9562/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kapil9562/DSA-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3903-smallest-stable-index-i](https://github.com/kapil9562/DSA-Problems/tree/master/3903-smallest-stable-index-i) |
@@ -120,6 +121,7 @@
 | [0287-find-the-duplicate-number](https://github.com/kapil9562/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/kapil9562/DSA-Problems/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/kapil9562/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1901-find-a-peak-element-ii](https://github.com/kapil9562/DSA-Problems/tree/master/1901-find-a-peak-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 | [0048-rotate-image](https://github.com/kapil9562/DSA-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kapil9562/DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kapil9562/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
+| [1901-find-a-peak-element-ii](https://github.com/kapil9562/DSA-Problems/tree/master/1901-find-a-peak-element-ii) |
 ## Simulation
 |  |
 | ------- |
