@@ -30,6 +30,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/kapil9562/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kapil9562/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/kapil9562/DSA-Problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/kapil9562/DSA-Problems/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/kapil9562/DSA-Problems/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/kapil9562/DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kapil9562/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -122,6 +123,7 @@
 | [0268-missing-number](https://github.com/kapil9562/DSA-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kapil9562/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/kapil9562/DSA-Problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/kapil9562/DSA-Problems/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/kapil9562/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1901-find-a-peak-element-ii](https://github.com/kapil9562/DSA-Problems/tree/master/1901-find-a-peak-element-ii) |
 ## Bit Manipulation
