@@ -25,6 +25,7 @@
 | [0219-contains-duplicate-ii](https://github.com/kapil9562/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kapil9562/DSA-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kapil9562/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/kapil9562/DSA-Problems/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kapil9562/DSA-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/kapil9562/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/kapil9562/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -123,6 +124,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/kapil9562/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/kapil9562/DSA-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kapil9562/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/kapil9562/DSA-Problems/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/kapil9562/DSA-Problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kapil9562/DSA-Problems/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/kapil9562/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -168,6 +170,7 @@
 | [0005-longest-palindromic-substring](https://github.com/kapil9562/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/kapil9562/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/kapil9562/DSA-Problems/tree/master/0118-pascals-triangle) |
+| [0410-split-array-largest-sum](https://github.com/kapil9562/DSA-Problems/tree/master/0410-split-array-largest-sum) |
 ## String
 |  |
 | ------- |
@@ -206,6 +209,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kapil9562/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/kapil9562/DSA-Problems/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kapil9562/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kapil9562/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/kapil9562/DSA-Problems/tree/master/3903-smallest-stable-index-i) |
@@ -228,6 +232,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/kapil9562/DSA-Problems/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/kapil9562/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
 ## Stack
 |  |
