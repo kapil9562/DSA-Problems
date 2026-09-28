@@ -246,6 +246,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/kapil9562/DSA-Problems/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kapil9562/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -259,4 +260,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kapil9562/DSA-Problems/tree/master/0069-sqrtx) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kapil9562/DSA-Problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
