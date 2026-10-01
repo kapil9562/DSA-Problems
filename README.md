@@ -52,6 +52,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/kapil9562/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kapil9562/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/kapil9562/DSA-Problems/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/kapil9562/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/kapil9562/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kapil9562/DSA-Problems/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/kapil9562/DSA-Problems/tree/master/0443-string-compression) |
@@ -241,6 +242,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kapil9562/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kapil9562/DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/kapil9562/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -249,6 +251,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/kapil9562/DSA-Problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/kapil9562/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kapil9562/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -267,5 +270,6 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kapil9562/DSA-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/kapil9562/DSA-Problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/kapil9562/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kapil9562/DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
