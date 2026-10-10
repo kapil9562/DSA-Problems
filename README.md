@@ -256,6 +256,7 @@
 | [0020-valid-parentheses](https://github.com/kapil9562/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kapil9562/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/kapil9562/DSA-Problems/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/kapil9562/DSA-Problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/kapil9562/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
@@ -314,6 +315,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kapil9562/DSA-Problems/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/kapil9562/DSA-Problems/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
