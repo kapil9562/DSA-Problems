@@ -17,6 +17,7 @@
 | [0088-merge-sorted-array](https://github.com/kapil9562/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/kapil9562/DSA-Problems/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/kapil9562/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kapil9562/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kapil9562/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kapil9562/DSA-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kapil9562/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -125,6 +126,7 @@
 | [0002-add-two-numbers](https://github.com/kapil9562/DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/kapil9562/DSA-Problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/kapil9562/DSA-Problems/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kapil9562/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/kapil9562/DSA-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/kapil9562/DSA-Problems/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kapil9562/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -256,6 +258,7 @@
 | [0020-valid-parentheses](https://github.com/kapil9562/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kapil9562/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/kapil9562/DSA-Problems/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kapil9562/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kapil9562/DSA-Problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/kapil9562/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
