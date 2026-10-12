@@ -32,6 +32,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/kapil9562/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kapil9562/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/kapil9562/DSA-Problems/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/kapil9562/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/kapil9562/DSA-Problems/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/kapil9562/DSA-Problems/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/kapil9562/DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -261,10 +262,12 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/kapil9562/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kapil9562/DSA-Problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/kapil9562/DSA-Problems/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/kapil9562/DSA-Problems/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kapil9562/DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/kapil9562/DSA-Problems/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
