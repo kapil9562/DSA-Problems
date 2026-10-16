@@ -209,6 +209,7 @@
 | [0242-valid-anagram](https://github.com/kapil9562/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kapil9562/DSA-Problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kapil9562/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/kapil9562/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/kapil9562/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kapil9562/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/kapil9562/DSA-Problems/tree/master/0443-string-compression) |
@@ -255,6 +256,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/kapil9562/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/kapil9562/DSA-Problems/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/kapil9562/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
 ## Stack
@@ -267,6 +269,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/kapil9562/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kapil9562/DSA-Problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/kapil9562/DSA-Problems/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/kapil9562/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kapil9562/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kapil9562/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kapil9562/DSA-Problems/tree/master/0739-daily-temperatures) |
@@ -275,6 +278,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kapil9562/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kapil9562/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/kapil9562/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kapil9562/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kapil9562/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kapil9562/DSA-Problems/tree/master/0739-daily-temperatures) |
