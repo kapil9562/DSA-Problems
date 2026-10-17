@@ -209,6 +209,7 @@
 | [0242-valid-anagram](https://github.com/kapil9562/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kapil9562/DSA-Problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kapil9562/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/kapil9562/DSA-Problems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/kapil9562/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/kapil9562/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kapil9562/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -269,6 +270,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/kapil9562/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kapil9562/DSA-Problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/kapil9562/DSA-Problems/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/kapil9562/DSA-Problems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/kapil9562/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kapil9562/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kapil9562/DSA-Problems/tree/master/0503-next-greater-element-ii) |
@@ -289,6 +291,7 @@
 | [0143-reorder-list](https://github.com/kapil9562/DSA-Problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/kapil9562/DSA-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kapil9562/DSA-Problems/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/kapil9562/DSA-Problems/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kapil9562/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
