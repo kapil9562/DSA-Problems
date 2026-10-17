@@ -3,6 +3,9 @@ class Solution {
     // int i = 0;
 
     public String decodeString(String s) {
+
+        if (s == null || s.length() == 0) return "";
+
         Stack<Integer> countStack = new Stack<>();
         Stack<StringBuilder> stringStack = new Stack<>();
 
