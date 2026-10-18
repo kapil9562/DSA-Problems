@@ -135,6 +135,7 @@
 | [0202-happy-number](https://github.com/kapil9562/DSA-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/kapil9562/DSA-Problems/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kapil9562/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1006-clumsy-factorial](https://github.com/kapil9562/DSA-Problems/tree/master/1006-clumsy-factorial) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kapil9562/DSA-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
@@ -187,6 +188,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kapil9562/DSA-Problems/tree/master/0054-spiral-matrix) |
+| [1006-clumsy-factorial](https://github.com/kapil9562/DSA-Problems/tree/master/1006-clumsy-factorial) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -275,6 +277,7 @@
 | [0496-next-greater-element-i](https://github.com/kapil9562/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kapil9562/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kapil9562/DSA-Problems/tree/master/0739-daily-temperatures) |
+| [1006-clumsy-factorial](https://github.com/kapil9562/DSA-Problems/tree/master/1006-clumsy-factorial) |
 ## Monotonic Stack
 |  |
 | ------- |
