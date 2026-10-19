@@ -133,6 +133,7 @@
 | [0069-sqrtx](https://github.com/kapil9562/DSA-Problems/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kapil9562/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/kapil9562/DSA-Problems/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/kapil9562/DSA-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kapil9562/DSA-Problems/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/kapil9562/DSA-Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kapil9562/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -157,6 +158,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/kapil9562/DSA-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kapil9562/DSA-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kapil9562/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
@@ -295,6 +297,7 @@
 | [0002-add-two-numbers](https://github.com/kapil9562/DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/kapil9562/DSA-Problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/kapil9562/DSA-Problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/kapil9562/DSA-Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/kapil9562/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/kapil9562/DSA-Problems/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/kapil9562/DSA-Problems/tree/master/0509-fibonacci-number) |
