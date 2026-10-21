@@ -163,6 +163,7 @@
 | [0231-power-of-two](https://github.com/kapil9562/DSA-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kapil9562/DSA-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kapil9562/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/kapil9562/DSA-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -226,6 +227,7 @@
 | [0567-permutation-in-string](https://github.com/kapil9562/DSA-Problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/kapil9562/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kapil9562/DSA-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/kapil9562/DSA-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Sliding Window
 |  |
 | ------- |
@@ -364,4 +366,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kapil9562/DSA-Problems/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/kapil9562/DSA-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
