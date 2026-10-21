@@ -41,6 +41,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/kapil9562/DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kapil9562/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kapil9562/DSA-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1480-running-sum-of-1d-array](https://github.com/kapil9562/DSA-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1901-find-a-peak-element-ii](https://github.com/kapil9562/DSA-Problems/tree/master/1901-find-a-peak-element-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kapil9562/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kapil9562/DSA-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -245,6 +246,7 @@
 | [0410-split-array-largest-sum](https://github.com/kapil9562/DSA-Problems/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kapil9562/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kapil9562/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/kapil9562/DSA-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/kapil9562/DSA-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Union-Find
 |  |
