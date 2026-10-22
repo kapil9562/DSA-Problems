@@ -14,6 +14,7 @@
 | [0057-insert-interval](https://github.com/kapil9562/DSA-Problems/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/kapil9562/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kapil9562/DSA-Problems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/kapil9562/DSA-Problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kapil9562/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/kapil9562/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/kapil9562/DSA-Problems/tree/master/0118-pascals-triangle) |
@@ -160,6 +161,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kapil9562/DSA-Problems/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/kapil9562/DSA-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kapil9562/DSA-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kapil9562/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -369,5 +371,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kapil9562/DSA-Problems/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/kapil9562/DSA-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
