@@ -17,6 +17,7 @@
 | [0078-subsets](https://github.com/kapil9562/DSA-Problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kapil9562/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/kapil9562/DSA-Problems/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/kapil9562/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/kapil9562/DSA-Problems/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/kapil9562/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kapil9562/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -162,6 +163,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/kapil9562/DSA-Problems/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/kapil9562/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/kapil9562/DSA-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kapil9562/DSA-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kapil9562/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -372,5 +374,6 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/kapil9562/DSA-Problems/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/kapil9562/DSA-Problems/tree/master/0090-subsets-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/kapil9562/DSA-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
