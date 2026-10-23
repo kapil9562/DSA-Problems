@@ -7,6 +7,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kapil9562/DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/kapil9562/DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/kapil9562/DSA-Problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/kapil9562/DSA-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kapil9562/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kapil9562/DSA-Problems/tree/master/0054-spiral-matrix) |
@@ -373,6 +374,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/kapil9562/DSA-Problems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/kapil9562/DSA-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kapil9562/DSA-Problems/tree/master/0090-subsets-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/kapil9562/DSA-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
