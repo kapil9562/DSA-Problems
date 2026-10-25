@@ -11,6 +11,7 @@
 | [0047-permutations-ii](https://github.com/kapil9562/DSA-Problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/kapil9562/DSA-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kapil9562/DSA-Problems/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/kapil9562/DSA-Problems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/kapil9562/DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/kapil9562/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kapil9562/DSA-Problems/tree/master/0057-insert-interval) |
@@ -382,7 +383,12 @@
 | [0022-generate-parentheses](https://github.com/kapil9562/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/kapil9562/DSA-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kapil9562/DSA-Problems/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/kapil9562/DSA-Problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/kapil9562/DSA-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kapil9562/DSA-Problems/tree/master/0090-subsets-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/kapil9562/DSA-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/kapil9562/DSA-Problems/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
