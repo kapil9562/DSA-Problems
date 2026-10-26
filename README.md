@@ -222,6 +222,7 @@
 | [0022-generate-parentheses](https://github.com/kapil9562/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/kapil9562/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/kapil9562/DSA-Problems/tree/master/0076-minimum-window-substring) |
+| [0093-restore-ip-addresses](https://github.com/kapil9562/DSA-Problems/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/kapil9562/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kapil9562/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kapil9562/DSA-Problems/tree/master/0205-isomorphic-strings) |
@@ -386,6 +387,7 @@
 | [0051-n-queens](https://github.com/kapil9562/DSA-Problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/kapil9562/DSA-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kapil9562/DSA-Problems/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/kapil9562/DSA-Problems/tree/master/0093-restore-ip-addresses) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/kapil9562/DSA-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Algorithm X
 |  |
